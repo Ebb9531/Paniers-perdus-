@@ -3,7 +3,7 @@
 const EMAIL_CONTACT = "constance.eberle@live.fr";
 // ────────────────────────────────────────────────────────────────
 
-const LIEN_PAIEMENT = process.env.NEXT_PUBLIC_STRIPE_LINK || "#";
+const LIEN_PAIEMENT = "https://buy.stripe.com/4gM8wP0eefNQ3K8fvJ0co01";
 
 function Bouton({ className = "" }: { className?: string }) {
   return (
