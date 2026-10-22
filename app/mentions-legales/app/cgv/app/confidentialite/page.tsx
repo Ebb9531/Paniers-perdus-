@@ -18,8 +18,8 @@ export default function Confidentialite() {
 
       <h2 className="mt-8 font-titre text-xl font-bold">Qui est responsable de tes données</h2>
       <p className="mt-2 text-gris">
-        [À services relations], entrepreneur individuel, SIRET [52845772400037], joignable à
-        [À relations-services@hotmail.com].
+        À services relations, entrepreneur individuel, SIRET 52845772400037, joignable à
+        À relations-services@hotmail.com.
       </p>
 
       <h2 className="mt-8 font-titre text-xl font-bold">Ce que nous collectons, et pourquoi</h2>
