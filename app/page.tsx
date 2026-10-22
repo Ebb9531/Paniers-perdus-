@@ -132,8 +132,14 @@ export default function Page() {
         </div>
       </section>
 
-      <footer className="mt-14 border-t border-trait pt-6 text-sm text-gris"> <p>Panier Perdu · Contact : constance.eberle@live.fr</p> <p className="mt-3 flex flex-wrap gap-x-4 gap-y-2"> <a href="/mentions-legales" className="underline">Mentions légales</a> <a href="/cgv" className="underline">CGV</a> <a href="/confidentialite" className="underline">Confidentialité</a> </p> </footer>
-
+            <footer className="mt-14 border-t border-trait pt-6 text-sm text-gris">
+        <p>Panier Perdu · Contact : constance.eberle@live.fr</p>
+        <p className="mt-3 flex flex-wrap gap-x-4 gap-y-2">
+          <a href="/mentions-legales" className="underline">Mentions légales</a>
+          <a href="/cgv" className="underline">CGV</a>
+          <a href="/confidentialite" className="underline">Confidentialité</a>
+        </p>
+      </footer>
       {/* Barre de paiement fixe, atteignable au pouce, mobile uniquement */}
       <div className="fixed inset-x-0 bottom-0 border-t border-trait bg-papier/95 p-3 sm:hidden">
         <Bouton />
