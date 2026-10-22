@@ -14,12 +14,12 @@ export default function Confidentialite() {
       <h1 className="mt-8 font-titre text-3xl font-extrabold tracking-tight">
         Politique de confidentialité
       </h1>
-      <p className="mt-2 text-sm text-gris">Dernière mise à jour : [À COMPLÉTER : date]</p>
+      <p className="mt-2 text-sm text-gris">Dernière mise à jour : [le 22/10/2026]</p>
 
       <h2 className="mt-8 font-titre text-xl font-bold">Qui est responsable de tes données</h2>
       <p className="mt-2 text-gris">
-        [À COMPLÉTER : prénom et nom], entrepreneur individuel, SIRET [À COMPLÉTER], joignable à
-        [À COMPLÉTER : ton email de contact].
+        [À services relations], entrepreneur individuel, SIRET [52845772400037], joignable à
+        [À relations-services@hotmail.com].
       </p>
 
       <h2 className="mt-8 font-titre text-xl font-bold">Ce que nous collectons, et pourquoi</h2>
